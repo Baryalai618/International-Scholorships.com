@@ -1,0 +1,38 @@
+
+
+
+
+
+
+
+.about1{
+    color: orangered;
+    text-align: center;
+    font-size: 60px;
+
+}
+
+spam{
+    color: orangered;
+    font-size: 30px;
+
+}
+
+.para1{
+    font-size: 30px;
+    padding: 20px;
+    margin: 50px;
+    color: yellow;
+}
+
+.link1{
+    position: relative;
+    bottom: 450px;
+    text-decoration: underline 12px green;
+}
+
+.img2{
+    width: 200pxpx;
+    height: 150px;
+    border-radius: 100px;
+}
